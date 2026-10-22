@@ -799,7 +799,7 @@ html.visual body {
 
   text-transform: uppercase;
 
-  color: var(--additional, );
+  color: var(--additional);
 
   pointer-events: none;
 
@@ -1048,8 +1048,6 @@ color (
 color: blue;
 )
 
-color1 (
-color: white;
-)
+
 
 
