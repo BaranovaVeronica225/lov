@@ -799,7 +799,7 @@ html.visual body {
 
   text-transform: uppercase;
 
-  color: var(--additional);
+  color: var(--additional, #000);
 
   pointer-events: none;
 
